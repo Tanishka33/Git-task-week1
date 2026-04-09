@@ -1,4 +1,8 @@
-Project start
+This is squash demo - step 1
+This is squash demo - step 2
+This is squash demo - step 3
+
+Project start 
 
 Login freature this is version 1 of program
 This is new feature 1 with version 2 
