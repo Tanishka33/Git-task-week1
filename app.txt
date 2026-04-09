@@ -7,3 +7,5 @@ Hotfix - critical bug needs to fix
 Now new feature added for Conflict in rebase 
 Now new feature added for Conflict in rebase 
 UI feature added 
+UI feature added 
+UI fix 
